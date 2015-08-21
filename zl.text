@@ -1,2 +1,6 @@
 zl add one one
+<<<<<<< HEAD
 master change 01
+=======
+abc change 01
+>>>>>>> abc

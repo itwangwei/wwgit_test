@@ -1,5 +1,9 @@
 hello test ww201
 hello ww xiuai abc 01
+<<<<<<< HEAD
 
 local master zengjia2
 master change 02
+=======
+abc xiugai 02
+>>>>>>> abc
